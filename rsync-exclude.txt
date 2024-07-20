@@ -1,0 +1,9 @@
+.venv
+.venv-dev
+__pycache__
+*egg-info
+
+.github
+.vscode
+dist/
+docs/coverage/
